@@ -1,6 +1,6 @@
 <!-- https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04-es#paso-4-crear-un-host-virtual-para-su-sitio-web -->
 
-### 📁 Ejercicio 3: Instalación de Apache, MySQL y PHP
+### Ejercicio 3
 
 #### Paso 1: Instalación de Apache
 
@@ -84,6 +84,3 @@
 
 18. Abrimos el localhost y comprobamos de que realmente nuestra página cambio y se muestra lo que escribimos anteriormente
     ![Paso 18](./images/25.png)
-
-    ## 🔙 Navegación
-- [Volver al índice principal](../README.md)
