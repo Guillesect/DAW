@@ -1,4 +1,4 @@
-### 📁 Ejercicio 1: Servidor HTTP básico
+### Ejercicio 1
 
 ![Primer ejercicio](./images/01_primerEjercicio.PNG)
 ![Resultado del primer ejercicio](./images/02_PrimerEjercicio.PNG)
