@@ -1,4 +1,4 @@
-### 📁 Ejercicio 4: Cambiar configuracion de apache
+###Ejercicio 4: Cambiar configuracion de apache
 
 1.  Apache utilizará el puerto 81 además del 80
 
@@ -201,5 +201,3 @@ Y por ultimo reiniciamos apache con `sudo systemctl restart apache2`
 <p align="center">
   <img src="./images/39.png" alt="paso39">
 </p>
-
-- [Volver al índice principal](../README.md)
