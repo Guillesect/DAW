@@ -2,4 +2,4 @@
 ## Práctica 1º Trimestre
 Ejercicio | Descripción
 ----------|-------------
-[Página html](/tema1/pagina.html). |  Página web sencilla con un encabezado h1 y un pequeño párrafo de texto de mi elección.
+[Ver pdf](DAW 1º Trimestre Guillermo - Documentos de Google.pdf). |  Práctica Servidores web 1º trimestre.
